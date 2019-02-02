@@ -1,3 +1,4 @@
 install matplotlib on fedora
 $ sudo python3.6  -m pip install matplotlib
 
+start the frist project
